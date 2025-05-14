@@ -1,0 +1,6 @@
+{
+  "__file": "wp_block",
+  "title": "card with image top",
+  "content": "<!-- wp:group {\"style\":{\"spacing\":{\"padding\":{\"top\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"right\":\"0\"}}},\"layout\":{\"type\":\"flex\",\"orientation\":\"vertical\",\"justifyContent\":\"center\"}} -->\n<div class=\"wp-block-group\" style=\"padding-top:0;padding-right:0;padding-bottom:0;padding-left:0\"><!-- wp:image {\"aspectRatio\":\"1\",\"scale\":\"cover\"} -->\n<figure class=\"wp-block-image\"><img alt=\"\" style=\"aspect-ratio:1;object-fit:cover\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:group {\"layout\":{\"type\":\"flex\",\"orientation\":\"vertical\",\"justifyContent\":\"center\"}} -->\n<div class=\"wp-block-group\"><!-- wp:heading {\"textAlign\":\"center\"} -->\n<h2 class=\"wp-block-heading has-text-align-center\"></h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"center\"} -->\n<p class=\"has-text-align-center\">A sentence or two description.</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:group --></div>\n<!-- /wp:group -->",
+  "syncStatus": "unsynced"
+}
